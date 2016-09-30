@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle christopher-word-count2",
+        "command": "christopher-word-count2:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "christopher-word-count2",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "christopher-word-count2:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

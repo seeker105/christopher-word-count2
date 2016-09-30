@@ -1,0 +1,18 @@
+{
+  "name": "christopher-word-count2",
+  "main": "./lib/christopher-word-count2",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "christopher-word-count2:toggle"
+  },
+  "repository": "https://github.com/atom/christopher-word-count2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
